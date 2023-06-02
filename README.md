@@ -10,8 +10,7 @@ This repository contains the unitypacakage for the SDK One Native Ads plugin. Th
 ## Installation
 To install the Native Ads Plugin in your Unity project, follow these steps:
 
-1. [Download](https://github.com/googleads/googleads-mobile-plugins/releases/latest) and import the latest version of the Google Mobile Ads plugin. 
-2. Download the Native Ads unity package from this GitHub repository.
+2. [Download]((https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/releases/latest)) the Native Ads unity package from this GitHub repository.
 3. Open your Unity project and navigate to the "Assets" menu.
 4. Select "Import Package" > "Custom Package" and choose the downloaded package file.
 5. Unity will import the plugin assets into your project.
