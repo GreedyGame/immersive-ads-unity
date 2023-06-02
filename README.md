@@ -8,9 +8,4 @@ This repository contains the unitypacakage for the SDK One Native Ads plugin. Th
 2. Native ad formats: Easily modify ad format prefab to match the look and feel of your game.
 
 ## Installation
-To install the Native Ads Plugin in your Unity project, follow these steps:
-
-2. [Download](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/releases/latest) the Native Ads unity package from this GitHub repository.
-3. Open your Unity project and navigate to the "Assets" menu.
-4. Select "Import Package" > "Custom Package" and choose the downloaded package file.
-5. Unity will import the plugin assets into your project.
+To install the Native Ads Plugin in your Unity project, follow this integration [document](https://greedygame.github.io/sdkone-unity_native_ads_plugin/).
