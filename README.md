@@ -18,3 +18,4 @@ To install the Native Ads Plugin in your Unity project, follow this integration 
 ## Documentation 📓
 Please refer to this scripting API [document](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/wiki) for advanced integration.
 
+<img align='centre' src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="80">
