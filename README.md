@@ -1,4 +1,4 @@
-![gg](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/assets/98257601/5e666fe5-3a5d-4b26-9b7c-b2e410d7552e)
+![gg](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/assets/98257601/bf6b9642-a71d-4b85-8e91-b130fbc02eb2)
 
 # Sdk One Unity Plugin
 The SDK One Native Ads Plugin for Unity is a powerful tool that allows developers to seamlessly integrate native ads into their Android games. With this plugin, developers can monetize their games by displaying targeted ads that blend in seamlessly with the game's design, providing a non-intrusive and engaging advertising experience for players.
