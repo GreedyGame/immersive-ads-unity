@@ -12,4 +12,5 @@ This repository contains the unitypacakage for the SDK One Native Ads plugin. Th
 ## Installation
 To install the Native Ads Plugin in your Unity project, follow this integration [document](https://greedygame.github.io/sdkone-unity_native_ads_plugin/).
 
-## [Documentation 📓](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/wiki)
+## Documentation 📓
+Please refer to this scripting API [document](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/wiki) for advanced integration.
