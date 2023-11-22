@@ -7,7 +7,7 @@
 PubScale Immersive Ads SDK for Unity is a powerful tool that allows developers to seamlessly integrate native ads into their Unity games. With this SDK, developers can monetize their games by displaying targeted ads that blend seamlessly with the game's design, providing a non-intrusive and engaging advertising experience for players.
 
 ## Features
-1. Easy integration: The plugin provides a simple and straightforward integration process, saving you time and effort.
+1. Easy integration: The SDK provides a simple and straightforward integration process, saving you time and effort.
 2. Native Ad Display Formats: Easily modify the ad format prefab to match the look and feel of your game.
 3. Boost Revenue: Earn incremental recurring revenue with a one-time integration process.
 4. Change and fine-tune ad behavior after publishing with our remote configuration features.
