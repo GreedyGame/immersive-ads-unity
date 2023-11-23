@@ -13,7 +13,7 @@ PubScale Immersive Ads SDK for Unity is a powerful tool that allows developers t
 4. Change and fine-tune ad behavior after publishing with our remote configuration features.
 
 ## Installation
-To install the Immersive Ads package in your Unity project, follow this [integration document](https://pubscale.gitbook.io/unity-ads-sdk/).
+To install the Immersive Ads package in your Unity project, follow this [integration document](https://pubscale.gitbook.io/immersive-ads-sdk/).
 
 ## Documentation 📓
 Please refer to this [Scripting API document](https://github.com/GreedyGame/immersive-ads-unity/wiki) for advanced integration.
